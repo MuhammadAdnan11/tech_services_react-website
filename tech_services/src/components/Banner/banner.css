@@ -1,0 +1,20 @@
+.banner{
+    background-color: rgb(112, 112, 255);
+    display: flex;
+    flex-direction: row;
+}
+
+.banner-tags ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+
+}
+.banner-tags ul li{
+    display: flex;
+    flex-direction: row;
+    background-color: green;
+    margin-right: 20px;
+
+
+}
